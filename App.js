@@ -14,7 +14,6 @@ import {
   Alert, TouchableHighlight
 } from 'react-native';
 
-import Home from './pages/Home';
 import Header from "./components/Header";
 import Connexion from "./pages/Connexion";
 import Secure from "./pages/Secure";
